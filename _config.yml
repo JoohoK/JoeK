@@ -1,0 +1,56 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Photographer Do Develop
+description: |
+  As a Linux, DBMS kernel developer and
+  As a Photographer,
+  Valuable Info and Photo will be shown
+owner: Joe Kim # or company name
+first_published: 2023 # if migrating another site, the year of your first publish
+email: PhotoDev.lop@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://joohok.github.io" # the base hostname & protocol for your site
+social:
+  github: https://github.com/joohok
+  linkedin-square: www.linkedin.com/in/jooho-kim-44201bba
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
