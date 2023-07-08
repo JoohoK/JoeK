@@ -1,0 +1,38 @@
+- title: "Home"
+  url: "/"
+  side: left
+
+- title: "Database"
+  url: "/database/"
+  side: left
+  dropdown:
+  - title: "concept"
+    url: "/database/concept/"
+  - title: "analysis"
+    url: "/database/analysis/"
+
+- title: "Language"
+  url: "/language/"
+  side: left
+  dropdown:
+  - title: "Clang"
+    url: "/language/clang/"
+  - title: "C++"
+    url: "/language/cpp/"
+
+- title: "Documentation"
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: "Changelog"
+    url: "/changelog/"
+  - title: "Roadmap"
+    url: "/roadmap/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
